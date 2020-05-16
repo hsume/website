@@ -1,4 +1,4 @@
 ## Welcome to GitHub Pages
 
-# Subdomain Takeover POC by @Malik Imran Awan
+# Subdomain Takeover POC by @malik_imran-awan
 
